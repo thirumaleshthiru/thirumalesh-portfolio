@@ -386,6 +386,7 @@ h3{
     border-radius: 20px;
     box-shadow: 1px 8px 10px 2px var(--first-shadow-color);
     overflow: hidden;
+    padding: 21px;
 }
 .project-box>i{
     font-size: 50px;
